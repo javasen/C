@@ -3,7 +3,7 @@ package cn.itcast.utils;
 import java.util.Random;
 import java.util.UUID;
 
-public class UploadUtils {
+public class UploadUtils {//
 	
 	/**
 	 * 获取随机名称
